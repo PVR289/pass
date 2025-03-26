@@ -1,3 +1,6 @@
+https://public.tableau.com/app/profile/vrund.patel5004/viz/ExecutiveSales_17429722284330/All?publish=yes
+
+
 📌 Complete Excel Setup for Inventory Management
 1. Required Inventory to Avoid Low-Level Fee
 Formula (H2) - Calculates how much inventory you need to restock to reach 28 days of supply:
